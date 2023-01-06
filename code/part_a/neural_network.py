@@ -1,3 +1,8 @@
+"""
+Base template is due to CSC311, year 2022 instructors at UofT.
+Implementation are student's (our) work.
+"""
+
 from utils import *
 from torch.autograd import Variable
 
