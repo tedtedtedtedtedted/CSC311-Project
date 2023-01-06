@@ -1,3 +1,7 @@
+"""
+Base template is due to CSC311, year 2022 instructors at UofT.
+"""
+
 from scipy.sparse import load_npz
 
 import numpy as np
