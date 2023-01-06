@@ -1,3 +1,7 @@
+"""
+Base template is due to CSC311, year 2022 instructors at UofT.
+"""
+
 from utils import *
 from scipy.linalg import sqrtm
 
