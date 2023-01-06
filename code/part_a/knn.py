@@ -1,3 +1,8 @@
+"""
+Base template is due to CSC311, year 2022 instructors.
+Implementation are student's (our) work.
+"""
+
 from sklearn.impute import KNNImputer
 from utils import *
 import matplotlib.pyplot as plt
